@@ -59,7 +59,7 @@ The dashboard focuses on transforming cricket data into actionable insights thro
 
 ### Executive Overview
 
-![Overview](Screenshots/Page1_Executive_Overview.png)
+![Overview](Overview.png)
 
 ### Performance Analysis
 
