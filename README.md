@@ -67,7 +67,7 @@ The dashboard focuses on transforming cricket data into actionable insights thro
 
 ### Records & Milestones
 
-![Records](Screenshots/Page3_Records_Milestones.png)
+![Records](Records.png)
 
 ---
 
