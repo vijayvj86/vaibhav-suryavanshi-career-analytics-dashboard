@@ -63,7 +63,7 @@ The dashboard focuses on transforming cricket data into actionable insights thro
 
 ### Performance Analysis
 
-![Performance](Screenshots/Page2_Performance_Analysis.png)
+![Performance](Performance Analysis.png)
 
 ### Records & Milestones
 
